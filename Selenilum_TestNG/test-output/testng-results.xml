@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-02T04:15:25 IST" name="Test-Suite02" finished-at="2022-09-02T04:15:25 IST" duration-ms="29">
+    <groups>
+      <group name="demo1">
+        <method signature="TestNgRegularExp_SuperGroups.checkTitle()[pri:0, instance:testNGPract.TestNgRegularExp_SuperGroups@5a63f509]" name="checkTitle" class="testNGPract.TestNgRegularExp_SuperGroups"/>
+      </group> <!-- demo1 -->
+      <group name="demo2">
+        <method signature="TestNgRegularExp_SuperGroups.click_element()[pri:0, instance:testNGPract.TestNgRegularExp_SuperGroups@5a63f509]" name="click_element" class="testNGPract.TestNgRegularExp_SuperGroups"/>
+      </group> <!-- demo2 -->
+    </groups>
+    <test started-at="2022-09-02T04:15:25 IST" name="Test002" finished-at="2022-09-02T04:15:25 IST" duration-ms="29">
+      <class name="testNGPract.TestNgRegularExp_SuperGroups">
+        <test-method signature="checkTitle()[pri:0, instance:testNGPract.TestNgRegularExp_SuperGroups@5a63f509]" started-at="2022-09-02T04:15:25 IST" name="checkTitle" finished-at="2022-09-02T04:15:25 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method signature="click_element()[pri:0, instance:testNGPract.TestNgRegularExp_SuperGroups@5a63f509]" started-at="2022-09-02T04:15:25 IST" name="click_element" finished-at="2022-09-02T04:15:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_element -->
+      </class> <!-- testNGPract.TestNgRegularExp_SuperGroups -->
+    </test> <!-- Test002 -->
+  </suite> <!-- Test-Suite02 -->
+</testng-results>
