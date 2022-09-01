@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite02" >
+   <test name="Test002" >
+   		<groups>
+   			<run>
+   				<include name = "demo.*"></include>
+   			</run>
+   		</groups>
+       <classes> 
+          <class name="testNGPract.TestNgRegularExp_SuperGroups" />
+       </classes>
+   </test>
+ </suite>
