@@ -1,2 +1,2 @@
 # Selenilum_TestNG
-# Java-Selenium-TestNGAll_inDetail
+Java-Selenium-TestNGAll_inDetail
