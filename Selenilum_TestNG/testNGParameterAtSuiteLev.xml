@@ -5,7 +5,7 @@
    <parameter name="val2" value="7" />
    <test name="Parameters01">
       <classes>
-         <class name="testNGPract.ParametersAtSuitLevel" />
+         <class name="DataProvider_Groups_Parameters.ParametersAtSuitLevel" />
       </classes>
    </test>
 </suite>
