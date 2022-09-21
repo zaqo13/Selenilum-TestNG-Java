@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegrationSuit01" >
+<parameter name="company1" value="tata motors"/>
+  <test name="ChromeTest">
+    <classes>
+      <class name="DataProvider_Groups_Parameters.TestClassParameters"/>
+    </classes>
+  </test> 
+</suite>
+
