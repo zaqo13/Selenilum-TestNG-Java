@@ -7,7 +7,7 @@
    			</run>
    		</groups>
        <classes> 
-          <class name="testNGPract.TestNgRegularExp_SuperGroups" />
+          <class name="DataProvider_Groups_Parameters.TestNgRegularExp_SuperGroups" />
        </classes>
    </test>
  </suite>
